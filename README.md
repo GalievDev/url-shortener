@@ -89,7 +89,7 @@ npm run test
 2. Redirecting to the original URL.
 
 ## Usage
-1. Open the frontend in your browser (default: `http://localhost:8080`).
+1. Open the frontend in your browser (default: `http://localhost:3000`).
 2. Enter a URL in the form and generate a short link.
 3. Use the short link to test redirection.
 
